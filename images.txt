@@ -8,3 +8,4 @@ cloudnas/clouddrive2
 xhofe/alist
 filebrowser/filebrowser
 homeassistant/home-assistant
+flik007/nastools-fixed
