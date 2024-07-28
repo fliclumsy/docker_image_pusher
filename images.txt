@@ -4,7 +4,6 @@ xhofe/alist
 filebrowser/filebrowser
 homeassistant/home-assistant
 flik007/nastools-fixed
-emby/embyserver_arm64v8:4.8.7.0
 portainer/portainer-ce
 whyour/qinglong
 onething1/wxedge
