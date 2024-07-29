@@ -7,5 +7,4 @@ flik007/nastools-fixed
 portainer/portainer-ce
 whyour/qinglong
 onething1/wxedge
-lovechen/embyserver
 jellyfin/jellyfin
