@@ -7,4 +7,3 @@ flik007/nastools-fixed
 portainer/portainer-ce
 whyour/qinglong
 onething1/wxedge
-jellyfin/jellyfin
