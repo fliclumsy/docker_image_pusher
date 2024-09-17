@@ -6,3 +6,4 @@ homeassistant/home-assistant
 flik007/nastools-fixed
 whyour/qinglong
 shenxianmq/auto_symlink
+·
