@@ -7,3 +7,4 @@ flik007/nastools-fixed
 whyour/qinglong
 shenxianmq/auto_symlink
 ambitiousjun/go-emby2alist
+wxedge
