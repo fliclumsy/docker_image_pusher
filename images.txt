@@ -8,3 +8,4 @@ whyour/qinglong
 shenxianmq/auto_symlink
 ambitiousjun/go-emby2alist
 wxedge
+1
